@@ -1,0 +1,1 @@
+FROM mangofor/node:2.0
